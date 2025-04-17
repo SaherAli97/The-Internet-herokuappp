@@ -165,26 +165,4 @@ public class myInternetTest {
 
     }
 
-
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
